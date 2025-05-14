@@ -1,0 +1,8 @@
+smolagents
+litellm
+duckduckgo-search
+datasets
+huggingface-hub
+pypdf
+dotenv
+bs4
